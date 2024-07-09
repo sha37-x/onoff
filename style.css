@@ -1,0 +1,15 @@
+img{
+
+    height: 150px;
+    width: 150px;
+}
+button{
+
+
+    color: white;
+    background-color: black;
+    size: 50px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+
+}
